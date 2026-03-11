@@ -122,7 +122,7 @@ export default function HomePage() {
             { text: "Learn More", href: "/services" },
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg?_wi=1"
           imageAlt="Business strategy consultation"
           mediaAnimation="slide-up"
           marqueeItems={[
@@ -175,7 +175,7 @@ export default function HomePage() {
                 "Market entry and expansion strategies",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/busy-multicultural-diverse-employees-analysing-annual-financial-statistics-sitting-desk-front-laptop-holding-documents-searching-business-solutions-team-businesspeople-working-company_482257-13550.jpg",
+                "http://img.b2bpic.net/free-photo/busy-multicultural-diverse-employees-analysing-annual-financial-statistics-sitting-desk-front-laptop-holding-documents-searching-business-solutions-team-businesspeople-working-company_482257-13550.jpg?_wi=1",
               imageAlt: "Business Advisory Services",
             },
             {
@@ -187,7 +187,7 @@ export default function HomePage() {
                 "Employment law and HR compliance solutions",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg",
+                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg?_wi=1",
               imageAlt: "Legal Compliance Services",
             },
             {
@@ -199,7 +199,7 @@ export default function HomePage() {
                 "Accounting standards and audit preparation",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/person-office-analyzing-checking-finance-graphs_23-2150377136.jpg",
+                "http://img.b2bpic.net/free-photo/person-office-analyzing-checking-finance-graphs_23-2150377136.jpg?_wi=1",
               imageAlt: "Financial Consulting Services",
             },
             {
@@ -211,7 +211,7 @@ export default function HomePage() {
                 "Documentation and certification support",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg",
+                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg?_wi=2",
               imageAlt: "Regulatory Compliance",
             },
           ]}
@@ -256,7 +256,7 @@ export default function HomePage() {
               icon: Lightbulb,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg?_wi=2"
           imageAlt="Innova Consulting Team"
           mediaAnimation="slide-up"
           imagePosition="right"
@@ -337,7 +337,7 @@ export default function HomePage() {
                   subtitle: "Managing Partner, Business Strategy",
                   detail: "20+ years advising Spanish enterprises",
                   imageSrc:
-                    "http://img.b2bpic.net/free-photo/medium-shot-woman-sitting-couch_23-2149915934.jpg",
+                    "http://img.b2bpic.net/free-photo/medium-shot-woman-sitting-couch_23-2149915934.jpg?_wi=1",
                   imageAlt: "María García López",
                 },
                 {
@@ -346,7 +346,7 @@ export default function HomePage() {
                   subtitle: "Senior Advisor, Legal Compliance",
                   detail: "Legal expert in regulatory frameworks",
                   imageSrc:
-                    "http://img.b2bpic.net/free-photo/successful-expert_1098-14503.jpg",
+                    "http://img.b2bpic.net/free-photo/successful-expert_1098-14503.jpg?_wi=1",
                   imageAlt: "Carlos Fernández Martinez",
                 },
                 {
@@ -355,7 +355,7 @@ export default function HomePage() {
                   subtitle: "Financial Consultant, Chief Economist",
                   detail: "Advanced economics and financial planning",
                   imageSrc:
-                    "http://img.b2bpic.net/free-photo/thoughtful-blond-business-woman-sitting-couch_23-2148095700.jpg",
+                    "http://img.b2bpic.net/free-photo/thoughtful-blond-business-woman-sitting-couch_23-2148095700.jpg?_wi=1",
                   imageAlt: "Dr. Javier Ruiz Sánchez",
                 },
               ],
@@ -380,7 +380,7 @@ export default function HomePage() {
               testimonial:
                 "Great professionals. Fast and impeccable approach with friendly service. Innova helped us structure our company perfectly for growth.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg",
+                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=1",
               imageAlt: "Isabel Martínez",
             },
             {
@@ -390,7 +390,7 @@ export default function HomePage() {
               testimonial:
                 "Multidisciplinary team with genuine expertise. Trusted advisors who understand our industry challenges deeply.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg?_wi=1",
               imageAlt: "Miguel Gonzalez",
             },
             {
@@ -420,7 +420,7 @@ export default function HomePage() {
               testimonial:
                 "Excellent service and results. 100% recommended. They went above and beyond to ensure our compliance and growth strategy.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg",
+                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=2",
               imageAlt: "Lucia Fernandez",
             },
             {
@@ -430,7 +430,7 @@ export default function HomePage() {
               testimonial:
                 "They offer solutions to your problems with strategic thinking. Innova has become an integral part of our advisory board.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg?_wi=2",
               imageAlt: "Roberto Moreno",
             },
           ]}
@@ -470,7 +470,7 @@ export default function HomePage() {
               icon: Lock,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg?_wi=1"
           imageAlt="Professional Consultation"
           mediaAnimation="slide-up"
           imagePosition="left"
@@ -518,7 +518,7 @@ export default function HomePage() {
             required: true,
           }}
           useInvertedBackground={true}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg?_wi=2"
           imageAlt="Professional Office Environment"
           mediaAnimation="slide-up"
           mediaPosition="right"
