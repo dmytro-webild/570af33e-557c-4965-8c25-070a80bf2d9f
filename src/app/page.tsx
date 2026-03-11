@@ -115,7 +115,7 @@ export default function HomePage() {
             { text: "Learn More", href: "/services" },
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg?_wi=1"
           imageAlt="Business strategy consultation"
           mediaAnimation="slide-up"
           marqueeItems={[
@@ -161,7 +161,7 @@ export default function HomePage() {
               id: "legal-compliance",              title: "Legal & Compliance",              descriptions: [
                 "Corporate governance and regulatory compliance",                "Contract review and negotiation support",                "Employment law and HR compliance solutions"],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg",              imageAlt: "Legal Compliance Services"},
+                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg?_wi=1",              imageAlt: "Legal Compliance Services"},
             {
               id: "financial-consulting",              title: "Financial Consulting",              descriptions: [
                 "Financial planning and forecasting expertise",                "Cash flow optimization and working capital management",                "Accounting standards and audit preparation"],
@@ -171,7 +171,7 @@ export default function HomePage() {
               id: "regulatory-compliance",              title: "Regulatory Compliance",              descriptions: [
                 "Industry-specific regulatory navigation",                "Compliance audits and risk assessments",                "Documentation and certification support"],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg",              imageAlt: "Regulatory Compliance"},
+                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg?_wi=2",              imageAlt: "Regulatory Compliance"},
           ]}
           gridVariant="four-items-2x2-equal-grid"
           animationType="slide-up"
@@ -206,7 +206,7 @@ export default function HomePage() {
                 "We don't just identify issues—we guide you to the best solutions tailored to your situation",              icon: Lightbulb,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg?_wi=2"
           imageAlt="Innova Consulting Team"
           mediaAnimation="slide-up"
           imagePosition="right"
@@ -282,11 +282,11 @@ export default function HomePage() {
             {
               id: "1",              name: "Isabel Martínez",              handle: "CEO, Tech Startup",              testimonial:
                 "Great professionals. Fast and impeccable approach with friendly service. Innova helped us structure our company perfectly for growth.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg",              imageAlt: "Isabel Martínez"},
+                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=1",              imageAlt: "Isabel Martínez"},
             {
               id: "2",              name: "Miguel Gonzalez",              handle: "Founder, Manufacturing Co.",              testimonial:
                 "Multidisciplinary team with genuine expertise. Trusted advisors who understand our industry challenges deeply.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg",              imageAlt: "Miguel Gonzalez"},
+                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg?_wi=1",              imageAlt: "Miguel Gonzalez"},
             {
               id: "3",              name: "Elena Rodríguez",              handle: "Director, Retail Network",              testimonial:
                 "They help you understand what is required and guide you to the best option. Transparent, professional, and results-driven.",              imageSrc:
@@ -298,11 +298,11 @@ export default function HomePage() {
             {
               id: "5",              name: "Lucia Fernandez",              handle: "Operations Manager, B2B Company",              testimonial:
                 "Excellent service and results. 100% recommended. They went above and beyond to ensure our compliance and growth strategy.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg",              imageAlt: "Lucia Fernandez"},
+                "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=2",              imageAlt: "Lucia Fernandez"},
             {
               id: "6",              name: "Roberto Moreno",              handle: "CFO, Financial Services",              testimonial:
                 "They offer solutions to your problems with strategic thinking. Innova has become an integral part of our advisory board.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg",              imageAlt: "Roberto Moreno"},
+                "http://img.b2bpic.net/free-photo/portrait-confident-businessman_107420-84879.jpg?_wi=2",              imageAlt: "Roberto Moreno"},
           ]}
           speed={40}
         />
@@ -334,7 +334,7 @@ export default function HomePage() {
                 "All discussions protected under strict confidentiality agreements",              icon: Lock,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg?_wi=1"
           imageAlt="Professional Consultation"
           mediaAnimation="slide-up"
           imagePosition="left"
@@ -368,7 +368,7 @@ export default function HomePage() {
             required: true,
           }}
           useInvertedBackground={true}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg?_wi=2"
           imageAlt="Professional Office Environment"
           mediaAnimation="slide-up"
           mediaPosition="right"
