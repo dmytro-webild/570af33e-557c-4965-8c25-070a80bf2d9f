@@ -123,7 +123,7 @@ export default function ContactPage() {
               icon: Lock,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg?_wi=3"
           imageAlt="Professional Consultation"
           mediaAnimation="slide-up"
           imagePosition="left"
@@ -169,7 +169,7 @@ export default function ContactPage() {
             required: true,
           }}
           useInvertedBackground={true}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-young-business-woman-holding-notepad_171337-8330.jpg?_wi=4"
           imageAlt="Professional Office Environment"
           mediaAnimation="slide-up"
           mediaPosition="right"
