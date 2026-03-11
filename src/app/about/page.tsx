@@ -119,7 +119,7 @@ export default function AboutPage() {
               icon: Award,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg?_wi=4"
           imageAlt="Innova Consulting Team"
           mediaAnimation="slide-up"
           imagePosition="right"
@@ -197,7 +197,7 @@ export default function AboutPage() {
                   title: "María García López",
                   subtitle: "Managing Partner, Business Strategy",
                   detail: "20+ years advising Spanish enterprises",
-                  imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-sitting-couch_23-2149915934.jpg",
+                  imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-sitting-couch_23-2149915934.jpg?_wi=2",
                   imageAlt: "María García López",
                 },
                 {
@@ -205,7 +205,7 @@ export default function AboutPage() {
                   title: "Carlos Fernández Martinez",
                   subtitle: "Senior Advisor, Legal Compliance",
                   detail: "Legal expert in regulatory frameworks",
-                  imageSrc: "http://img.b2bpic.net/free-photo/successful-expert_1098-14503.jpg",
+                  imageSrc: "http://img.b2bpic.net/free-photo/successful-expert_1098-14503.jpg?_wi=2",
                   imageAlt: "Carlos Fernández Martinez",
                 },
                 {
@@ -213,7 +213,7 @@ export default function AboutPage() {
                   title: "Dr. Javier Ruiz Sánchez",
                   subtitle: "Financial Consultant, Chief Economist",
                   detail: "Advanced economics and financial planning",
-                  imageSrc: "http://img.b2bpic.net/free-photo/thoughtful-blond-business-woman-sitting-couch_23-2148095700.jpg",
+                  imageSrc: "http://img.b2bpic.net/free-photo/thoughtful-blond-business-woman-sitting-couch_23-2148095700.jpg?_wi=2",
                   imageAlt: "Dr. Javier Ruiz Sánchez",
                 },
               ],
