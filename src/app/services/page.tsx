@@ -116,7 +116,7 @@ export default function ServicesPage() {
                 "Market entry and expansion strategies with risk mitigation planning",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/busy-multicultural-diverse-employees-analysing-annual-financial-statistics-sitting-desk-front-laptop-holding-documents-searching-business-solutions-team-businesspeople-working-company_482257-13550.jpg",
+                "http://img.b2bpic.net/free-photo/busy-multicultural-diverse-employees-analysing-annual-financial-statistics-sitting-desk-front-laptop-holding-documents-searching-business-solutions-team-businesspeople-working-company_482257-13550.jpg?_wi=2",
               imageAlt: "Business Advisory Services",
             },
             {
@@ -128,7 +128,7 @@ export default function ServicesPage() {
                 "Employment law and HR compliance solutions protecting your organization",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg",
+                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg?_wi=3",
               imageAlt: "Legal Compliance Services",
             },
             {
@@ -140,7 +140,7 @@ export default function ServicesPage() {
                 "Accounting standards compliance and preparation for successful audits",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/person-office-analyzing-checking-finance-graphs_23-2150377136.jpg",
+                "http://img.b2bpic.net/free-photo/person-office-analyzing-checking-finance-graphs_23-2150377136.jpg?_wi=2",
               imageAlt: "Financial Consulting Services",
             },
             {
@@ -152,7 +152,7 @@ export default function ServicesPage() {
                 "Documentation preparation and certification support for certifications",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg",
+                "http://img.b2bpic.net/free-photo/handsome-young-man-working-with-digital-tablet-office_1301-7623.jpg?_wi=4",
               imageAlt: "Regulatory Compliance",
             },
           ]}
@@ -197,7 +197,7 @@ export default function ServicesPage() {
               icon: Lightbulb,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/business-meeting-corporate-office-concept_53876-22887.jpg?_wi=3"
           imageAlt="Professional Consulting Team"
           mediaAnimation="slide-up"
           imagePosition="right"
